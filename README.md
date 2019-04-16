@@ -1,4 +1,4 @@
-#Predicting house prices: a regression example
+# Predicting house prices: a regression example
 
 We'll attempt to predict the median price of homes in a given Boston suburb
 in the mid-1970s, given data points about the suburb at the time, such as the
